@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+.App {
+  display: flex;
+  height: 100dvh;
+  background: linear-gradient(to right, blue, silver);
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 100px;
+}
+h3 {
+  color: white;
+  margin: 10px;
+}
